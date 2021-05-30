@@ -24,17 +24,17 @@ The `Pandas-for-Population-Structure-Barplots.ipynb` can be used to analyze your
 
 ## FAQ
 
-+ Can I use files from Structure analyses instead?
++ **Can I use files from Structure analyses instead?**
 
 Yes! The `ped` file is only used to obtain the sample names. If you have run Structure analyses, you will need to provide a suitable replacement for the `ped` file. This can simply be a list of the sample names (one per line, in same order used for analysis). 
 
-+ Should I cite this notebook?
++ **Should I cite this notebook?**
 
 That isn't required, but if you have found this tutorial helpful for your work you can always provide a link to the github repo in your manuscript. This will help point other researchers to this resource. 
 
-+ It's not working for me!
++ **It's not working for me!**
 
-Please open an issue here and describe the error. It will also help to provide your input files, which can assist with replicating the problem.
+Please open an issue here and describe the error. It will help if you can provide your input files, which can assist with replicating the problem.
 
 ## License
 
