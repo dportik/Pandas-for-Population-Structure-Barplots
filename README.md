@@ -1,6 +1,6 @@
 # Pandas-for-Population-Structure-Barplots
 
-![BarPlot](https://github.com/dportik/Pandas-for-Population-Structure-Barplots/blob/main/data/outputs/Admixture-K4-Perfection.pdf)
+![BarPlot](https://github.com/dportik/Pandas-for-Population-Structure-Barplots/blob/main/data/outputs/Admixture-K4-Perfection.png)
 
 ---------------
 
