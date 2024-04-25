@@ -42,7 +42,4 @@ Please open an issue here and describe the error. It will help if you can provid
 
 GNU Lesser General Public License v3.0
 
-## Contact
-
-This tutorial was written by Daniel Portik (daniel.portik@gmail.com).
 
